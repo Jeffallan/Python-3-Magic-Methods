@@ -2,4 +2,7 @@
 
 To display as a slideshow:
 
-`jupyter nbconvert 'Python 3 Magic Methods.ipynb' --to slides --post serve`
+```
+bash
+jupyter nbconvert 'Python 3 Magic Methods.ipynb' --to slides --post serve
+```
