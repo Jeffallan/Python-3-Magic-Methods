@@ -10,7 +10,7 @@ Have you ever wondered how Python works? In this presentation we will uncover th
 - To give meaningful descriptions to your objects;
 - Common mathematical actually work in Python;
 - Python evaluates equity and inequity and; 
-- **You, the user, can Python's builtin behavior.**
+- **You, the user, can alter Python's builtin behavior.**
 
 After this presentation you will leave with thre key pieces of information:
 
