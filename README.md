@@ -1,8 +1,8 @@
-* Magic Methods in Python 3: What Makes Python Python
+# Magic Methods in Python 3: What Makes Python Python
 
 This material was presented to the Omaha Python User Group on 2/28/2019
 
-** Abstract
+## Abstract
 
 Have you ever wondered how Python works? In this presentation we will uncover the "magic" behind the scenes in Python.  Join us as we discover how: 
 
@@ -10,7 +10,7 @@ Have you ever wondered how Python works? In this presentation we will uncover th
 - To give meaningful descriptions to your objects;
 - Common mathematical actually work in Python;
 - Python evaluates equity and inequity and; 
-- You, the user, can Python's builtin behavior.
+- **You, the user, can Python's builtin behavior.**
 
 After this presentation you will leave with thre key pieces of information:
 
@@ -18,7 +18,7 @@ After this presentation you will leave with thre key pieces of information:
 2) When and how to override Python's magic methods and;
 3) Additional resources to learn more about magic methods.
 
-** Viewing This Presentation Locally
+## Viewing This Presentation Locally
 - Clone this repository.
 - Create a virtual environment and activate it:
 ```
