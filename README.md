@@ -55,3 +55,5 @@ Official Documentation: https://docs.python.org/3/reference/datamodel.html#speci
 - https://opensource.com/article/18/4/elegant-solutions-everyday-python-problems
 
 - http://farmdev.com/src/secrets/magicmethod/index.html
+
+- https://codesachin.wordpress.com/2016/06/09/the-magic-behind-attribute-access-in-python/
